@@ -946,6 +946,8 @@ MonoBehaviour:
   player1Title: {fileID: 1145176280}
   player2: {fileID: 88593628}
   player2Title: {fileID: 809941060}
+  powerUp1: {fileID: 528325605}
+  powerUp2: {fileID: 230717136}
 --- !u!4 &587247140
 Transform:
   m_ObjectHideFlags: 0
